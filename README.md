@@ -2,7 +2,7 @@
 This is a simple tic tac toe game created using Python that can be played in the VS Code terminal.
 The game is designed in such a way that the player represents "O" and the computer is "X".
 
-## How to Install
+How to Install
 1. First, clone this repository in a desired folder using the following command:
 ```
 git clone https://github.com/kgothatso456/tic-tae-toe/blob/main/tic_tac_toe.py
