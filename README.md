@@ -5,7 +5,7 @@ The game is designed in such a way that the player represents "O" and the comput
 How to Install
 1. First, clone this repository in a desired folder using the following command:
 ```
-git clone https://github.com/kgothatso456/tic-tae-toe/blob/main/tic_tac_toe.py
+git clone https://github.com/kgothatso456/tic-tae-toe
 ```
 or 
 
